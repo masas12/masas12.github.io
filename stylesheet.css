@@ -1,0 +1,15 @@
+header {
+  color: #2e8b57;
+  font-size: 32px;
+  padding: 0 0 10px 0;
+}
+
+.top-wrapper {
+  background-image: url(gekkeikan-gaikan.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+
+  max-width: 1170px;
+  width: 100%;
+}
